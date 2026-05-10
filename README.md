@@ -18,7 +18,7 @@ pi install npm:pi-llama-server
 Or from git:
 
 ```bash
-pi install git:github.com/user/pi-llama-server
+pi install git:github.com/maikelthedev/pi-llama-server
 ```
 
 Pi auto-discovers the extension via `pi.extensions` in `package.json`. No additional setup needed.
